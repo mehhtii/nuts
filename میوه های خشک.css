@@ -1,0 +1,24 @@
+#logo{
+    border-radius:50%;
+}
+#navbar{
+    background-color: #bfa661 !important;
+   
+}
+
+#cardImge{
+    aspect-ratio: 16/9;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+#footerImg{
+    border-radius: 50%;
+}
+
+#footer{
+    background-color:#bfa661;
+}
+#footerLink{
+    text-decoration: none;
+}
